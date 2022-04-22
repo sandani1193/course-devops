@@ -7,3 +7,4 @@ jenkins
 docker
 kubernetes--k8s
 monitoring tool--nagios
+grafana is also a monitorting tool
